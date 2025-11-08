@@ -25,12 +25,6 @@ The program shows:
 - Option to save the final results table to a CSV file
 - Option to run multiple analyses (loop)
 
-## Folder Structure
-gradebook_analyzer/
-├── gradebook.py
-├── sample_students.csv
-└── README.md
-
 
 ## Requirements
 - Python 3.x
