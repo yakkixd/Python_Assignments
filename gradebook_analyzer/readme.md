@@ -27,7 +27,6 @@ The program shows:
 
 ## Folder Structure
 gradebook_analyzer/
-│
 ├── gradebook.py
 ├── sample_students.csv
 └── README.md
