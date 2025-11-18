@@ -9,16 +9,9 @@ Simple command-line library inventory manager built for the "Programming for Pro
 - Logging and exception handling
 - Packaged project structure suitable for GitHub submission
 
-## Running
-1. Create a virtual environment (optional)
-2. `python -m pip install -r requirements.txt`
-3. `python -m cli.main` (run from project root)
-
 ## Project structure
 - `library_manager/` - package containing `book.py` and `inventory.py`
 - `cli/main.py` - command-line interface
 - `catalog.json` - the data file that stores the books
 - `tests/` - optional unit tests
 
-## Notes on academic integrity
-This project was generated with assistance from an AI. For submission, ensure code is understood and adapted as needed, and cite any external sources used.
